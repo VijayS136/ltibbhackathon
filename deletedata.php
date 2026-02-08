@@ -27,7 +27,6 @@ $servername = "mysqldb";
 $username = "root";
 $password = "admin123";
 $dbname = "customers";
-$conn = mysqli_connect("mysql", "root", "password", "dbname");
 
 
 // Create connection
